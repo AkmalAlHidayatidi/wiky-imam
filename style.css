@@ -178,11 +178,6 @@ body {
   font-size: 1rem;
 }
 
-.info .card-body a{
-  background-color: var(--war2);
-  border-color: var(--war2);
-}
-
 .info .card-footer {
   border-top: 1px solid #999;
   font-size: 0.9rem;
